@@ -6,6 +6,7 @@
   - type: StorageFill
     contents:
       - id: BoxSurvival
+      - id: SpaceCash100
 
 - type: entity
   noSpawn: true
