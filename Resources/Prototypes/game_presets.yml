@@ -98,3 +98,16 @@
   rules:
     - Pirates
     - BasicStationEventScheduler
+
+- type: gamePreset
+  id: TraitorHijack
+  alias:
+    - traitorhijack
+    - Hijack
+    - hijack
+  name: traitor-hijack-title
+  description: traitor-hijack-description
+  showInVote: false
+  rules:
+    - TraitorHijack
+    - BasicStationEventScheduler
